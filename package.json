@@ -1,5 +1,5 @@
 {
-  "name": "conversion",
+  "name": "@ventureum/conversion",
   "version": "1.0.0",
   "description": "Two-way conversion 0 to uint(-1) to fix ganache set to 0 bug",
   "main": "index.js",
