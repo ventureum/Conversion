@@ -1,0 +1,30 @@
+{
+  "name": "conversion",
+  "version": "1.0.0",
+  "description": "Two-way conversion 0 to uint(-1) to fix ganache set to 0 bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ventureum/Conversion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ventureum/Conversion/issues"
+  },
+  "homepage": "https://github.com/ventureum/Conversion#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "openzeppelin-solidity": "^1.10.0"
+  }
+}
